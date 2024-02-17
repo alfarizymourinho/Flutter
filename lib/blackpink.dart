@@ -108,7 +108,7 @@ class blackpink extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
                             Image.asset(
-                              'assets/img/jarwo.webp',
+                              'assets/img/bp.jpeg',
                               fit: BoxFit.cover,
                               height: 100,
                               width: 125,
@@ -121,7 +121,7 @@ class blackpink extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
                             Image.asset(
-                              'assets/img/adel.jpg',
+                              'assets/img/black.jpg',
                               fit: BoxFit.cover,
                               height: 100,
                               width: 125,
@@ -134,7 +134,7 @@ class blackpink extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
                             Image.asset(
-                              'assets/img/aditjarwo.jpeg',
+                              'assets/img/member.png',
                               fit: BoxFit.cover,
                               height: 100,
                               width: 125,
@@ -147,7 +147,7 @@ class blackpink extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: [
                             Image.asset(
-                              'assets/img/adit.jpg',
+                              'assets/img/ichika.jpg',
                               fit: BoxFit.cover,
                               height: 100,
                               width: 125,

@@ -51,7 +51,6 @@ class Nama extends StatelessWidget {
                 gradient: const LinearGradient(colors: [Colors.blueGrey, Colors.red]),
                 borderRadius: BorderRadius.circular(10),
                 border: Border.all(color: Colors.black, width: 3)),
-            child: const BelajarHelloWorld(),
           ),
         ),
       ),
